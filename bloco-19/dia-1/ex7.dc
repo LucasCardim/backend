@@ -1,0 +1,10 @@
+🚀 Verifique na sua lista de contêiners qual contêiner se refere ao exercício que acabou de praticar.
+
+CONTAINER ID   IMAGE                COMMAND              CREATED         STATUS                      PORTS     NAMES
+c530c6b17518   debian:stable-slim   "bash"               2 minutes ago   Exited (0) 37 seconds ago             exciting_newton
+7eb7c87e25a4   hello-world          "/hello"             9 hours ago     Exited (0) 9 hours ago                elastic_pare
+aa95918dd047   httpd:2.4            "httpd-foreground"   6 days ago      Exited (0) 6 days ago                 site-trybe
+262e883fbe86   httpd:2.4            "httpd-foreground"   6 days ago      Exited (0) 6 days ago                 boring_cray
+fd6a3614a116   ubuntu               "bash"               6 days ago      Exited (0) 6 days ago                 container
+=> 27a938be0145   debian:stable-slim   "bash"               7 days ago      Exited (0) 7 days ago                 debian
+

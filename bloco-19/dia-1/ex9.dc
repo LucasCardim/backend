@@ -1,0 +1,3 @@
+🚀 Retome o contêiner que foi criado anteriormente neste exercício.
+
+➜ docker attach 27a93 

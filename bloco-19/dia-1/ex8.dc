@@ -1,0 +1,13 @@
+🚀 Inicie o mesmo contêiner novamente, sem criar outro. Valide se ele está ativo na lista de contêiners.
+
+➜ docker container start 27a93       
+27a93
+
+CONTAINER ID   IMAGE                COMMAND              CREATED         STATUS                     PORTS     NAMES
+c530c6b17518   debian:stable-slim   "bash"               3 minutes ago   Exited (0) 2 minutes ago             exciting_newton
+7eb7c87e25a4   hello-world          "/hello"             9 hours ago     Exited (0) 9 hours ago               elastic_pare
+aa95918dd047   httpd:2.4            "httpd-foreground"   6 days ago      Exited (0) 6 days ago                site-trybe
+262e883fbe86   httpd:2.4            "httpd-foreground"   6 days ago      Exited (0) 6 days ago                boring_cray
+fd6a3614a116   ubuntu               "bash"               6 days ago      Exited (0) 6 days ago                container
+=> 27a938be0145   debian:stable-slim   "bash"               7 days ago      ** Up 9 seconds                         debian
+

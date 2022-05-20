@@ -1,0 +1,4 @@
+🚀 Remova somente o contêiner criado para esse exercício.
+
+=> ➜ docker container rm 27a93           
+27a93
